@@ -1,5 +1,5 @@
 {
-  "name": "yes",
+  "name": "review-film",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:yes": "node dist/yes/server/server.mjs"
+    "serve:ssr:ReviewFilm": "node dist/review-film/server/server.mjs"
   },
   "private": true,
   "dependencies": {
