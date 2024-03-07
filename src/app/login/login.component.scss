@@ -1,0 +1,23 @@
+
+.login{
+    background-color: #2E4F4F;
+    .container{
+        position: relative;
+        min-height: 100vh;
+        form{
+            font-size: 12px;
+            background-color: #CBE4DE;
+            width: 300px;
+            position: absolute;
+            right: 0;
+            bottom: 2rem;
+            input{
+                font-size: 12px;
+            }
+            button{
+                font-size: 12px;
+            }
+        }
+        
+    }
+}

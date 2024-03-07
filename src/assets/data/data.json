@@ -1,0 +1,119 @@
+[
+    {
+      "id": 1,
+      "name": "Venom",
+      "cover": "https://resizing.flixster.com/w7oW9FQj1r-lvHn2aNpWEMbXqWc=/180x257/v2/https://resizing.flixster.com/m-_iSmK-QO9H2Iurcv7uu4TrxCM=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzYwZGZhODY3LTI2YzktNGVkYy05YWJlLTVmMGNmMTY2YWZhNS5qcGc=",
+      "rating": 2.15,
+      "categorize": [],
+      "reviews": [
+      ]
+    },
+    {
+        "id": 2,
+        "name": "The Addam's Family 2",
+        "cover": "https://resizing.flixster.com/Qsv4_iz7c6JhCNvUzgN9ixD4DY8=/180x257/v2/https://resizing.flixster.com/UkjsCuTQE9TsbaUBjv1306fV-PA=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzYwYTEzY2RkLTUwZjQtNGQyYS04Y2YyLTM1N2VkOWRhNGMxZS5qcGc=",
+        "rating": 1.85,
+        "categorize": ["theatre"],
+        "reviews": [
+        ]
+      },
+      {
+        "id": 3,
+        "name": "The many saints of Newark",
+        "cover": "https://resizing.flixster.com/RepJk2Zmhgnc0xnya0rATtYp6Fw=/180x257/v2/https://resizing.flixster.com/y1aWFiU0Xb1pWJdnPD8YQ9nUKFM=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzY0YjU4NmQ3LWIxNzktNDMxOS05Yjg3LWU2YmJiNWIyMDBiZS5qcGc=",
+        "rating": 3.25,
+        "categorize": ["trending","theatre"],
+        "reviews": [
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Free Guy",
+        "cover": "https://resizing.flixster.com/uNc3CW-Fa09jrPAkm8XZpNjhzYo=/180x257/v2/https://resizing.flixster.com/xwxxJB2xH5NdYHpX_VBGwBtT54I=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2U1NzRmM2YxLWJmZjctNDYzNS05Mjk4LTVmOGM4NGJiMTQwMS5qcGc=",
+        "rating": 4.15,
+        "categorize": ["trending","theatre"],
+        "reviews": [
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Candy Man",
+        "cover": "https://resizing.flixster.com/PsxQgGOGHuH7uZnVYeiIeqh0H-M=/180x257/v2/https://resizing.flixster.com/Hpqr7nXbuWjldQs_1XGUyPExDto=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2MyZDU0OTU5LWMyNDEtNDUyOC1hZmYyLTQwOGE2ZWQ2NjhmMy5qcGc=",
+        "rating": 3.45,
+        "categorize": ["trending"],
+        "reviews": [
+        ]
+      },
+      {
+        "id": 6,
+        "name": "The Card Counter",
+        "cover": "https://resizing.flixster.com/Ysr6evIRXM5qV6unZwhrFTDklu4=/180x257/v2/https://resizing.flixster.com/LfEmWhyYSAJEqbT9BKeFZJQHBOs=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzAyZWMwZjFiLWU0NWYtNDEyOC04ZjJkLTA3MjM5ZjAzODMxMS5qcGc=",
+        "rating": 3.85,
+        "categorize": ["trending","theatre"],
+        "reviews": [
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Avatar",
+        "cover": "https://i.pinimg.com/236x/88/8e/2a/888e2a7fc0761ecaffe06c0294bc9d84.jpg",
+        "rating": 4.8,
+        "categorize": ["trending","theatre"],
+        "reviews": [
+        ]
+      },
+      {
+          "id": 8,
+          "name": "The Silence",
+          "cover": "https://i.pinimg.com/236x/85/d3/e7/85d3e73052882e181ee2f5458c2326ea.jpg",
+          "rating": 1.85,
+          "categorize": [],
+          "reviews": [
+          ]
+        },
+        {
+          "id": 9,
+          "name": "The magic",
+          "cover": "https://i.pinimg.com/236x/f2/01/cc/f201cccc0ec19dcf83095c11bd2f13d3.jpg",
+          "rating": 4,
+          "categorize": ["theatre"],
+          "reviews": [
+          ]
+        },
+        {
+            "id": 10,
+            "name": "Gumo Gumo",
+            "cover": "https://i.pinimg.com/236x/9c/7f/f3/9c7ff3efec11285b27560319e60024c5.jpg",
+            "rating": 4.2,
+            "categorize": ["trending"],
+            "reviews": [
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Jungle under the sea",
+            "cover": "https://i.pinimg.com/236x/7c/c2/da/7cc2da70c99a92b1b69119a2cb208422.jpg",
+            "rating": 1.8,
+            "categorize": ["theatre"],
+            "reviews": [
+            ]
+          },
+          {
+              "id": 12,
+              "name": "Foolish man",
+              "cover": "https://i.pinimg.com/236x/e4/88/de/e488deb563b879b14a069d2aec5d89cb.jpg",
+              "rating": 1.85,
+              "categorize": [],
+              "reviews": [
+              ]
+            },
+            {
+              "id": 13,
+              "name": "Return",
+              "cover": "https://i.pinimg.com/236x/8e/e0/dd/8ee0dd3f8a9f045a86cd0b3418d4f4f1.jpg",
+              "rating": 4.75,
+              "categorize": ["trending","theatre"],
+              "reviews": [
+              ]
+            }
+]
