@@ -8,6 +8,7 @@ import { HomeComponent } from './home/home.component';
 import { MovieComponent } from './movie/movie.component';
 import { HeaderComponent } from './header/header.component';
 import { FormsModule } from '@angular/forms';
+import { HttpClient, HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -15,12 +16,13 @@ import { FormsModule } from '@angular/forms';
     LoginComponent,
     HomeComponent,
     MovieComponent,
-    HeaderComponent
+    HeaderComponent,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule
+    FormsModule,
+    HttpClientModule
   ],
   providers: [
     provideClientHydration()

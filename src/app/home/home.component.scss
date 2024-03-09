@@ -1,0 +1,20 @@
+@use "../app.component.scss" as *;
+
+.home{
+    background-color: $lgreen;
+    min-height: 100vh;
+    .container{
+        color: $dgreen;
+        .title{
+            border-left: 5px solid $ldgreen;
+            padding-left: 10px;
+        }
+    }
+}
+.movie-all{
+    display: block;
+    background-color: gray;
+    color: red;
+    width: 100px;
+    height: 100px;
+}

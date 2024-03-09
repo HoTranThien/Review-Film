@@ -1,0 +1,12 @@
+@use "../app.component.scss" as c;
+
+.header{
+    background-color: c.$ldgreen;
+    .container{
+        a{
+            color: c.$lgreen;
+            text-decoration: none;
+        }
+    }
+
+}

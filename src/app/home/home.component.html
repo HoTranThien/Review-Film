@@ -1,1 +1,25 @@
-<p>home works!</p>
+<app-header></app-header>
+
+<div class="home">
+    <div class="container p-2">
+        <div class="row">
+            <div class="movie-list col-8">
+                <div class="trending">
+                    <p class="title h5">TRENDING MOVIE</p>
+                    <div class="row">
+                        <div class="movie-all col-2 justify-content-between" *ngFor="let item of movies" >
+                            <div class="movie-filtered" *ngIf="item.categorize.includes('trending')">
+                                <img [src]="item.cover" alt="">
+                                <p>{{item.name}}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="like col-4">
+                asd
+            </div>
+        </div>
+
+    </div>
+</div>
